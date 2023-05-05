@@ -1,0 +1,106 @@
+content {
+
+Users > hisah > OneDrive > Desktop > Oasis Project (1) > Task 2 Tribute Page >
+
+width: 80%;
+
+margin: 0% auto;
+
+}
+
+P {
+
+font-size: 1.5rem; text-align:justify;
+
+} h3 {
+
+font-size: 1.7rem;
+
+text-shadow: rgb(235, 195, 197) 5px 5px 5px; text-align: center;
+
+} .last (
+text-align: center;
+
+}
+
+@media (max-width: 600px) {
+
+.container(
+
+margin: 0px;
+
+}
+
+.title {
+
+border-radius: 100%; width: 80%;
+
+}
+
+.title img {
+
+width: 45%; height: 10%;
+
+} #heading {
+
+font-size: 2rem;
+}
+
+P{
+
+}
+
+h3 {
+
+font-size: 1.5rem;
+
+.last {
+
+font-size: 0.8rem;
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+.title {
+
+border-radius: 10%;
+
+width: 80%;
+
+.title img {
+
+width: 45%; height: 10%;
+
+#heading {
+
+font-size: 4rem;
+
+  } 
+  P {
+
+font-size: 1.8rem;
+
+font-size: 2.5rem;
+h3 {
+  @media (min-width: 1281px) { .title { border-radius: 8%; width: 80%;
+
+}
+
+.title img { width: 30%; height: 10%; }
+
+#heading{ font-size: 4.5rem;
+
+}
+
+P {
+
+}
+
+font-size: 2rem;
+
+h3 {
+
+}
+
+font-size: 2.7rem;
+
+}
